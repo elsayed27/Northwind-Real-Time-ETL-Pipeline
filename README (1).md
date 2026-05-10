@@ -1,0 +1,1 @@
+This folder contains the main PySpark ETL scripts and simulation notebook used in the Northwind Real-Time ETL Pipeline. It includes data simulation, Bronze ingestion, validation, cleaning, Gold Star Schema transformation, and Snowflake loading processes.
